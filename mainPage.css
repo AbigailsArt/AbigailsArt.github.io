@@ -1,6 +1,9 @@
 header {
     background-color: rgb(131, 203, 131);
     height: 160px; 
+}
+
+h1 {
     margin-left:0px;
     margin-top:0px; 
     margin-right:0px;
