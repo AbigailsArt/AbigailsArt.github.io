@@ -1,5 +1,90 @@
-header {
-    background-color: rgb(131, 203, 131);
-    height: 140px; 
-}
-
+.heading { 
+    height: 200px;
+ }
+ 
+ .name { 
+   font-family: trebuchet ms, sans-serif;
+   font-size:100px; 
+   position: absolute;
+   top:-20px; 
+   left:320px;
+ }
+ 
+ .colour1 {
+   height: 150px;
+   width:150px;
+   background-color: #c95044;
+   opacity: 0.8;
+   position: absolute; 
+   top: -15px;
+   right: -15px;
+   border-radius: 25px;
+ }
+ 
+ .colour2 {
+   height: 150px;
+   width:150px;
+   background-color:#91313e ;
+   opacity: 0.8;
+   position: absolute; 
+   top: 60px;
+   right: 90px;
+   border-radius: 25px;
+ }
+ 
+ .colour3 {
+   height: 120px;
+   width: 120px;
+   background-color:#ffd065 ;
+   opacity: 0.8;
+   position: absolute; 
+   top: -15px;
+   right: 250px;
+   border-radius: 25px;
+ }
+ 
+ 
+ .colour4 {
+   height: 70px;
+   width: 70px;
+   background-color:#ff8958 ;
+   opacity: 0.8;
+   position: absolute; 
+   top: 50px;
+   right: 200px;
+   border-radius: 25px;
+ }
+ 
+ .colour5 {
+   height: 70px;
+   width: 70px;
+   background-color:#692337;
+   opacity: 0.8;
+   position: absolute; 
+   top: 160px;
+   right: 50px;
+   border-radius: 25px;
+ }
+ 
+ 
+ .colour6 {
+   height: 150px;
+   width: 150px;
+   background-color:#692337;
+   opacity: 0.8;
+   position: absolute; 
+   top: -15px;
+   left: 20px;
+   border-radius: 25px;
+ }
+ 
+ .colour7 {
+   height: 100px;
+   width: 100px;
+   background-color:#ffd065;
+   opacity: 0.8;
+   position: absolute; 
+   top: 80px;
+   left: 130px;
+   border-radius: 25px;
+ }
