@@ -9,4 +9,16 @@
    top:-20px; 
    left:320px;
  }
+
+.studies-button {
+  position:absolute; 
+  top: -50px;
+  left:400px;
+}
+
+.originals-button {
+  position:absolute; 
+  top: -50px;
+  left:350px;
+}
  
