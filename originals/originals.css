@@ -1,3 +1,11 @@
-body {
-    background-color: powderblue;
-}
+.heading { 
+    height: 200px;
+ }
+ 
+ .name { 
+   font-family: trebuchet ms, sans-serif;
+   font-size:100px; 
+   position: absolute;
+   top:-20px; 
+   left:320px;
+ }
